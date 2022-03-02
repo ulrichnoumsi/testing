@@ -1,2 +1,2 @@
 # testing
-testing integration with Jenkins
+integration test with jenkins
